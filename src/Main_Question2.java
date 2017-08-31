@@ -1,4 +1,9 @@
+import org.junit.Rule;
+import org.junit.*;
+
 import java.util.Scanner;
+
+import static org.junit.Assert.assertEquals;
 
 public class Main_Question2 {
 
@@ -9,6 +14,21 @@ public class Main_Question2 {
 
         String name = scan.nextLine();
 
-        System.out.println("Hi, " + name + ". How are you?");
+        System.out.println(getGreeting(name));
     }
+
+    public static String getGreeting(String name)
+    {
+        return new String("Hi, " + name + ". How are you?");
+    }
+
+    @Test
+    public void testGreeting()
+    {
+        assertEquals("Hi, Hassan. How are you?", getGreeting("Hassan"));
+        assertEquals("Hi, 321312jkdsa. How are you?", getGreeting("321312jkdsa"));
+        assertEquals("Hi, dsajdsahskd. How are you?", getGreeting("dsajdsahskd"));
+    }
+
+
 }
