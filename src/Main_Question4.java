@@ -31,6 +31,7 @@ public class Main_Question4 {
         Returns product of numbers 1 ... num
         Returns 1 if num < 1
     Returns 0 if compute_method is not exactly equal to "sum" or "product"
+    Long is used to account for larger numbers than primitive int can handle
     */
     public static long computeSumOrProduct(String compute_method, int num)
     {
@@ -48,7 +49,7 @@ public class Main_Question4 {
             }
 
         }
-        
+
         return sum;
     }
 
@@ -65,5 +66,5 @@ public class Main_Question4 {
         assertEquals(1, computeSumOrProduct("product", 0));
         assertEquals(1, computeSumOrProduct("product", -10));
     }
-    
+
 }

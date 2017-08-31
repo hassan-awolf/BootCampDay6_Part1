@@ -17,6 +17,9 @@ public class Main_Question2 {
         System.out.println(getGreeting(name));
     }
 
+    /* Accepts parameter String name
+    Returns greeting according to "Hi, <NAME>. How are you?"
+    */
     public static String getGreeting(String name)
     {
         return new String("Hi, " + name + ". How are you?");
