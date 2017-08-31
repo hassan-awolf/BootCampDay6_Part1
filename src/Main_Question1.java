@@ -5,6 +5,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotEquals;
 
 public class Main_Question1 {
 
@@ -23,6 +24,9 @@ public class Main_Question1 {
     public void testOut()
     {
         assertEquals("Hello World!", getHello());
+        assertNotEquals("", getHello());
+        assertNotEquals("dskajdkl", getHello());
+        assertNotEquals("23123", getHello());
     }
 
 }

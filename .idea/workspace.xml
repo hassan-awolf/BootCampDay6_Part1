@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="576bff1c-d4cf-4107-b5fb-2875a08b8235" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BootCampDay7_Part1_Lab.iml" afterPath="$PROJECT_DIR$/BootCampDay7_Part1_Lab.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main_Question1.java" afterPath="$PROJECT_DIR$/src/Main_Question1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main_Question2.java" afterPath="$PROJECT_DIR$/src/Main_Question2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main_Question3.java" afterPath="$PROJECT_DIR$/src/Main_Question3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main_Question4.java" afterPath="$PROJECT_DIR$/src/Main_Question4.java" />
     </list>
@@ -18,18 +14,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question3.coverage" NAME="Main_Question3 Coverage Results" MODIFIED="1504195290864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question4.coverage" NAME="Main_Question4 Coverage Results" MODIFIED="1504196943485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question3_testGetSeriesSum.coverage" NAME="Main_Question3.testGetSeriesSum Coverage Results" MODIFIED="1504197039787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question2_testGreeting.coverage" NAME="Main_Question2.testGreeting Coverage Results" MODIFIED="1504197045362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question1.coverage" NAME="Main_Question1 Coverage Results" MODIFIED="1504197187842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question2.coverage" NAME="Main_Question2 Coverage Results" MODIFIED="1504195270541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question4_testComputeSumOrProduct.coverage" NAME="Main_Question4.testComputeSumOrProduct Coverage Results" MODIFIED="1504197010611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BootCampDay7_Part1_Lab$Main_Question1_testOut.coverage" NAME="Main_Question1.testOut Coverage Results" MODIFIED="1504197167905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main_Question1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main_Question1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BootCampDay7_Part1_Lab.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BootCampDay7_Part1_Lab.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_Question1.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/BootCampDay7_Part1_Lab/Main_Question1.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,9 +64,10 @@
       <file leaf-file-name="Main_Question2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main_Question2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#445#446#0" expanded="true" />
                 <element signature="e#512#513#0" expanded="true" />
               </folding>
@@ -47,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main_Question3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main_Question3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main_Question3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="204">
+              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,14 +87,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main_Question4.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main_Question4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main_Question4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+            <state relative-caret-position="9">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_Question2.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/BootCampDay7_Part1_Lab/Main_Question2.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,8 +133,8 @@
         <option value="$PROJECT_DIR$/src/Main_question1.java" />
         <option value="$PROJECT_DIR$/src/Main_question2.java" />
         <option value="$PROJECT_DIR$/src/Main_question3.java" />
-        <option value="$PROJECT_DIR$/src/Main_Question1.java" />
         <option value="$PROJECT_DIR$/src/Main_Question2.java" />
+        <option value="$PROJECT_DIR$/src/Main_Question1.java" />
         <option value="$PROJECT_DIR$/src/Main_Question3.java" />
         <option value="$PROJECT_DIR$/src/Main_Question4.java" />
       </list>
@@ -143,24 +181,6 @@
             <path>
               <item name="BootCampDay7_Part1_Lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCampDay7_Part1_Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampDay7_Part1_Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampDay7_Part1_Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampDay7_Part1_Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampDay7_Part1_Lab" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="BootCampDay7_Part1_Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCampDay7_Part1_Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampDay7_Part1_Lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main_Question3">
+  <component name="RunManager" selected="Application.Main_Question4">
     <configuration name="Main_Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Main_Question1" />
@@ -198,38 +218,70 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
+      <module name="BootCampDay7_Part1_Lab" />
       <envs />
     </configuration>
-    <configuration name="Main_Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_Question1.testOut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="BootCampDay7_Part1_Lab" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main_Question1" />
+      <option name="METHOD_NAME" value="testOut" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Main_Question2.testGreeting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="BootCampDay7_Part1_Lab" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main_Question2" />
+      <option name="METHOD_NAME" value="testGreeting" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BootCampDay7_Part1_Lab" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
     </configuration>
-    <configuration name="Main_Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_Question3.testGetSeriesSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main_Question3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="BootCampDay7_Part1_Lab" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main_Question3" />
+      <option name="METHOD_NAME" value="testGetSeriesSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BootCampDay7_Part1_Lab" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
     </configuration>
-    <configuration name="Main_Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_Question4" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Main_Question4" />
       <option name="VM_PARAMETERS" />
@@ -243,19 +295,25 @@
       <module name="BootCampDay7_Part1_Lab" />
       <envs />
     </configuration>
-    <configuration name="Main_question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_Question4.testComputeSumOrProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main_question2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="BootCampDay7_Part1_Lab" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main_Question4" />
+      <option name="METHOD_NAME" value="testComputeSumOrProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BootCampDay7_Part1_Lab" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -272,20 +330,21 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main_question2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main_Question3" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main_Question4" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main_Question2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main_Question1" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main_Question4" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Main_Question4.testComputeSumOrProduct" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Main_Question3.testGetSeriesSum" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Main_Question2.testGreeting" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Main_Question1.testOut" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Main_Question1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main_Question3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main_Question1" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main_Question2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main_Question4" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main_question2" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Main_Question3.testGetSeriesSum" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Main_Question4.testComputeSumOrProduct" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main_Question1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Main_Question1.testOut" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Main_Question2.testGreeting" />
       </list>
     </recent_temporary>
   </component>
@@ -299,16 +358,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504188746541</updated>
-      <workItem from="1504188751194" duration="5666000" />
+      <workItem from="1504188751194" duration="8344000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Main_Question1_testOut - 2017.08.31 at 11h 30m 50s.xml">
+      <configuration name="Main_Question1.testOut" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Question1_testOut - 2017.08.31 at 11h 32m 48s.xml">
+      <configuration name="Main_Question1.testOut" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Question2_testGreeting - 2017.08.31 at 11h 30m 46s.xml">
+      <configuration name="Main_Question2.testGreeting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Question3_testGetSeriesSum - 2017.08.31 at 11h 30m 40s.xml">
+      <configuration name="Main_Question3.testGetSeriesSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Question3_testGetSeriesSum - 2017.08.31 at 11h 35m 32s.xml">
+      <configuration name="Main_Question3.testGetSeriesSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Question3_testGetSeriesSum - 2017.08.31 at 11h 39m 31s.xml">
+      <configuration name="Main_Question3.testGetSeriesSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Question4_testComputeSumOrProduct - 2017.08.31 at 11h 30m 11s.xml">
+      <configuration name="Main_Question4.testComputeSumOrProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Question4_testComputeSumOrProduct - 2017.08.31 at 11h 35m 01s.xml">
+      <configuration name="Main_Question4.testComputeSumOrProduct" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5666000" />
+    <option name="totallyTimeSpent" value="8344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -320,10 +404,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -346,47 +431,72 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/BootCampDay7_Part1_Lab/Main_Question1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/BootCampDay7_Part1_Lab/Main_Question2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootCampDay7_Part1_Lab.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main_Question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main_Question2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#445#446#0" expanded="true" />
             <element signature="e#512#513#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main_Question1.java">
+    <entry file="file://$PROJECT_DIR$/src/Main_Question3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main_Question4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main_Question3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state relative-caret-position="9">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

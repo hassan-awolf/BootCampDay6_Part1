@@ -16,6 +16,10 @@ public class Main_Question3 {
 
     }
 
+    /* Accepts parameter int num
+    Returns sum of numbers 1 ... num
+    Returns 0 if num < 1
+    */
     public static int getSeriesSum(int num){
         int sum = 0;
         for (int i = 1; i <= num; i++) {
@@ -30,6 +34,7 @@ public class Main_Question3 {
         assertEquals( 24310, getSeriesSum(220));
         assertEquals( 15, getSeriesSum(5));
         assertEquals(0, getSeriesSum(0));
+        assertEquals(0, getSeriesSum(-10));
 
     }
 
